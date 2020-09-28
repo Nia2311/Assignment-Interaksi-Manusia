@@ -1,5 +1,5 @@
 ## WAWANCARA ##
-Adi Bayu Segar (Politeknik Negeri Pontianak)
+Adi Bayu Segar (Politeknik Negeri Pontianak) - [Behance](https://www.behance.net/adibayu)
 ##
 Terima Kasih kak sudah menyempatkan waktunya untuk Wawancara bersama kami.
 
@@ -75,7 +75,7 @@ prosesnya.
 
 ## Analisis Mock Up Narasumber ##
 
-## Analisis Mock Up – Smarthome ##
+[Analisis Mock Up – Smarthome](https://www.behance.net/gallery/101189443/UI-UX-SmartHome-%28Redesign%29)
 Dari mock up yang dimiliki oleh narasumber, kami memilih aplikasi smarthome yang didesain
 narasumber. Yang dapat kami nilai dari desain tersebut adalah:
 - Pemilihan warna dan font yang digunakan untuk aplikasi ini bisa dibilang soft dan cocok
