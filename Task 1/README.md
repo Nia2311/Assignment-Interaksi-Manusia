@@ -10,21 +10,21 @@ Desain pembuatan jalur pejalan kaki berada di tengah-tengah jalan, tetapi tidak 
 bisa melindungi pejalan kaki, seperti lampu merah khusus pejalan kaki, jembatan penyebrangan,
 pembatas jalan, zebra cross, dan lampu penerang jalan. Sehingga membuat para pejalan kaki
 harus berjalan ke ujung perempatannya jika ingin menyebrang jalan. 
-##
+
 <p align="center">
   <img src="https://github.com/Nia2311/IMK-Assignment-1/blob/master/Task%201/Street%20Design%20Error.jpg" />
 </p>
-##
+
 Tetapi tidak semua pejalan kaki ingin mengahabisakan tenaganya untuk berjalan puluhan meter
 hanya untuk menyebrang jalan, akhirnya mereka tetap menyebrang dengan liar tanpa
 memperhatikan kondisi jalanan yang penuh dengan kendaraan berlalu lalang. Hal ini sangatlah
 fatal untuk desain yang seharusnya menjadi short cut atau mempermudah pejalan kaki untuk
 menyebrang, karena tidak mempertimbangkan keselamatan pejalan kaki.
-##
+
 <p align="center">
   <img src="https://github.com/Nia2311/IMK-Assignment-1/blob/master/Task%201/Solution.jpg" />
 </p>
-##
+
 Solusi yang kami temukan adalah dengan menambahkan beberapa fasilitas, seperti
 adanya lampu merah khusus pejalan kaki, pembatas jalan, zebra cross, dan lampu penerang jalan
 karena pada kasus ini ditemukan juga bahwa pengemudi yang ada pada mobil tanpa awak ini
