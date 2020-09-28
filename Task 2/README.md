@@ -1,5 +1,5 @@
 ## WAWANCARA ##
-Adi Bayu Segar
+Adi Bayu Segar (Politeknik Negeri Pontianak)
 ##
 Terima Kasih kak sudah menyempatkan waktunya untuk Wawancara bersama kami.
 
