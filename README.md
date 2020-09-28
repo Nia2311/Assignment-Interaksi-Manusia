@@ -1,9 +1,9 @@
 # Assignment 1 - HCI
 ----------------------
 ## Team D ##
-1. Hary Susilo Pratama 
-2. Atikah Khonsa Salsabila
-3. Siti Nuraisyarani Baashita
+-	Hary Susilo Pratama 		(1313619016)
+-	Atikah Khonsa Salsabila 	(1313619002)
+-	Siti Nuraisyarani Baashita	 (1313619008)
 
 ## Task 1 ##
 - [x] Find similar incident in the past record
