@@ -26,5 +26,5 @@ random by passers for the voting.
     developer. You are to conduct dialogue with him and explain why your
 improved design is necessary. Listen to the feedback.
 
-Answer: [Record]()
+Answer: [Record](https://github.com/Nia2311/Assignment-Interaksi-Manusia/tree/hw2/Task%202)
 
