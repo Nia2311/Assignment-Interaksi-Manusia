@@ -6,16 +6,25 @@
 -	Siti Nuraisyarani Baashita	 (1313619008)
 
 ## Task 1 ##
-- [x] Find similar incident in the past record
-- [x] Explain why the incident happened
-- [x] Explain the design error
-- [x] Provide suggestion to improve the design
-- [x] Create a UX mockup to improve the design
+- [] Pick the app with fitting criteria.
+- [] Conduct an evaluation of the app in term of appearance and interaction control.
+- [] Give reasoning why it isn’t pleasant or cumbersome to use.
+- [] Pointed out the flaw in interaction control.
+- [] Identify Key business use cases.
+- [] The output of this task is key use cases, key activity diagrams, and narration.
 
-Answer:[Street Car Accident](https://github.com/Nia2311/IMK-Assignment-1/tree/master/Task%201)
+Answer:[S]()
 
 ## Task 2 ##
-- [x] Interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio.
+- [] 1st Day: Discussion of why the app does having problem.
+- [] 2nd Day: Two persons from your team are to works on competing
+design equipped with material design principle.
+- [] 3rd Day: Each person to represent his/her design along with its
+navigation. At this stage of the day, your team are also to involve
+random by passers for the voting.
+- [] 4th Day: Appeal to customer. Your customer in this case is app
+    developer. You are to conduct dialogue with him and explain why your
+improved design is necessary. Listen to the feedback.
 
-Answer:[Interview](https://github.com/Nia2311/IMK-Assignment-1/tree/master/Task%202)
+Answer:[Record]()
 
