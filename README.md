@@ -17,5 +17,5 @@ Answer:[Street Car Accident](https://github.com/Nia2311/Assignment-Interaksi-Man
 ## Task 2 ##
 - [x] Interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio.
 
-Answer:[Interview](https://github.com/Nia2311/IMK-Assignment-1/tree/master/Task%202)
+Answer:[Interview](https://github.com/Nia2311/Assignment-Interaksi-Manusia/tree/hw1/Task%202)
 
