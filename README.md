@@ -1,4 +1,4 @@
-# Assignment 1 - HCI
+# Assignment 2 - HCI
 ----------------------
 ## Team D ##
 -	Hary Susilo Pratama 		(1313619016)
