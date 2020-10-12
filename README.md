@@ -13,7 +13,7 @@
 - [] Identify Key business use cases.
 - [] The output of this task is key use cases, key activity diagrams, and narration.
 
-Answer:[S]()
+Answer: [Output](https://github.com/Nia2311/Assignment-Interaksi-Manusia/tree/hw2/Task%201)
 
 ## Task 2 ##
 - [] 1st Day: Discussion of why the app does having problem.
@@ -26,5 +26,5 @@ random by passers for the voting.
     developer. You are to conduct dialogue with him and explain why your
 improved design is necessary. Listen to the feedback.
 
-Answer:[Record]()
+Answer: [Record]()
 
