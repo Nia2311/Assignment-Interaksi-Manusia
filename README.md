@@ -5,6 +5,8 @@
 -	Atikah Khonsa Salsabila 	(1313619002)
 -	Siti Nuraisyarani Baashita	 (1313619008)
 
+[Developer Profile](https://www.linkedin.com/in/kiddyxyz/)
+
 ## Task 1 ##
 - [x] Pick the app with fitting criteria.
 - [x] Conduct an evaluation of the app in term of appearance and interaction control.
