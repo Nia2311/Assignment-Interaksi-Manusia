@@ -1,6 +1,7 @@
 Nama aplikasi : Tell <br>
 Link Playstore : https://play.google.com/store/apps/details?id=id.kivo.tell2
-Nama CEO : Hudya Ramdhana
+<br>
+Nama CEO : Hudya Ramdhana<br>
 [Developer Profile LinkedIn](https://www.linkedin.com/in/kiddyxyz/)
 
 
@@ -34,12 +35,12 @@ Kemudian kesalahan selanjutnya ada di bagian <b>Homepage</b> nya
   <img src="https://github.com/Nia2311/Assignment-Interaksi-Manusia/blob/hw2/Task%201/270364bb-2577-4535-941b-17076979d0a5.jpg" />
 </p>
 
-•	Pada bagian homepage, terdapat icon home di button navigation bar. Icon tersebut bisa dibilang tidak memiliki fungsi karena apabila diklik tidak ada perubahan apapun.
-•	Lalu icon notification di pojok kanan atas terpisah dengan icon-icon button lain yang terdapat di bottom navigation bar. Ini bisa membingungkan pengguna karena mereka bisa tidak sadar adanya button tersebut. Terlebih lagi, warna dari icon tersebut transparan dan terlihat menyatu dengan background
-•	Pada bagian tengah juga terdapat space kosong antara card fun corner & stories dengan vector orang yang sedang duduk. Ini seharusnya bisa dimanfaatkan dengan dipindahkannya kedua card  tersebut keatas untuk mengisi kekosongan space tersebut.
 •	Pada bagian homepage, terdapat icon home di button navigation bar. Icon tersebut bisa dibilang tidak memiliki fungsi karena apabila diklik tidak ada perubahan apapun.<br>
-•	Lalu icon notification di pojok kanan atas terpisah dengan icon-icon button lain yang terdapat di bottom navigation bar. Ini bisa membingungkan pengguna karena mereka bisa tidak sadar adanya button tersebut. Terlebih lagi, warna dari icon tersebut transparan dan terlihat menyatu dengan background <br>
-•	Pada bagian tengah juga terdapat space kosong antara card fun corner & stories dengan vector orang yang sedang duduk. Ini seharusnya bisa dimanfaatkan dengan dipindahkannya kedua card  tersebut keatas untuk mengisi kekosongan space tersebut. <br>
+•	Lalu icon notification di pojok kanan atas terpisah dengan icon-icon button lain yang terdapat di bottom navigation bar. Ini bisa membingungkan pengguna karena mereka bisa tidak sadar adanya button tersebut. Terlebih lagi, warna dari icon tersebut transparan dan terlihat menyatu dengan background<br>
+•	Pada bagian tengah juga terdapat space kosong antara card fun corner & stories dengan vector orang yang sedang duduk. Ini seharusnya bisa dimanfaatkan dengan dipindahkannya kedua card  tersebut keatas untuk mengisi kekosongan space tersebut.<br>
+•	Pada bagian homepage, terdapat icon home di button navigation bar. Icon tersebut bisa dibilang tidak memiliki fungsi karena apabila diklik tidak ada perubahan apapun.<br>
+•	Lalu icon notification di pojok kanan atas terpisah dengan icon-icon button lain yang terdapat di bottom navigation bar. Ini bisa membingungkan pengguna karena mereka bisa tidak sadar adanya button tersebut. Terlebih lagi, warna dari icon tersebut transparan dan terlihat menyatu dengan background<br>
+•	Pada bagian tengah juga terdapat space kosong antara card fun corner & stories dengan vector orang yang sedang duduk. Ini seharusnya bisa dimanfaatkan dengan dipindahkannya kedua card  tersebut keatas untuk mengisi kekosongan space tersebut.<br>
 
 Setelah itu kesalahan juga ada di bagian <b>Settings</b>
 <p align="center">
