@@ -38,5 +38,5 @@ Setelah itu kesalahan juga ada di bagian ##Settings##
 
 •	Pada Tellizen community, terdapat pengulangan kalimat seperti “Tell on Twitter”, “Tell on Instagram” dan seterusnya. Untuk mengatasi hal tersebut, kalimat “Tell on..” lebih baik di hilangkan dan hanya menggunakan logo serta nama dari komunitas tersebut.
 
-Masih ada beberapa kesalahan lainnya yang merupakan hasil analisa dari kami. Selebihnya dapat anda simak di vide berikut, untuk selengkapan analisanya: 
+Masih ada beberapa kesalahan lainnya yang merupakan hasil analisa dari kami. Selebihnya dapat anda simak di video berikut, untuk selengkapan analisanya: 
 [Link](https://www.youtube.com/watch?v=fsu6XsRPWoM)
