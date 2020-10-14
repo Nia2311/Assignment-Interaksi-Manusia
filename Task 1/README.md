@@ -26,7 +26,7 @@ Namun, setelah kami analisa desain aplikasi ini, kami menemukan beberapa kesalah
   <img src="https://github.com/Nia2311/Assignment-Interaksi-Manusia/blob/hw2/Task%201/c1dc4fd1-9877-4436-a2c7-eedc70007c51.jpg" />
 </p>
 
-•	Di bagian login, terdapat kotak konfirmasi yang harus dicentang agar bisa login melalui akun google. Tetapi kotak tersebut terlalu kecil ukurannya. Menyulitkan pengguna yang memiliki ukuran jari yang besar untuk menyentuhnya
+•	Di bagian login, terdapat kotak konfirmasi yang harus dicentang agar bisa login melalui akun google. Tetapi kotak tersebut terlalu kecil ukurannya. Menyulitkan pengguna yang memiliki ukuran jari yang besar untuk menyentuhnya<br>
 •	Di bagian login, terdapat kotak konfirmasi yang harus dicentang agar bisa login melalui akun google. Tetapi kotak tersebut terlalu kecil ukurannya. Menyulitkan pengguna yang memiliki ukuran jari yang besar untuk menyentuhnya<br>
 •	Lalu, untuk button login, hanya terdapat logo google saja. Ini membingungkan pengguna karena tidak tau apa maksud button tersebut jika hanya menaruh tombol google saja. Ukurannya juga terlalu kecil dan warna nya mirip dengan background nya.
 
@@ -48,4 +48,5 @@ Setelah itu kesalahan juga ada di bagian <b>Settings</b>
 </p>
 •	Pada Tellizen community, terdapat pengulangan kalimat seperti “Tell on Twitter”, “Tell on Instagram” dan seterusnya. Untuk mengatasi hal tersebut, kalimat “Tell on..” lebih baik di hilangkan dan hanya menggunakan logo serta nama dari komunitas tersebut.
 Masih ada beberapa kesalahan lainnya yang merupakan hasil analisa dari kami. Selebihnya dapat anda simak di video berikut, untuk selengkapan analisanya: 
+
 [Link](https://www.youtube.com/watch?v=fsu6XsRPWoM)
