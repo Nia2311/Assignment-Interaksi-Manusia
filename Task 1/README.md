@@ -1,1 +1,1 @@
-
+Dalam Task 1 ini kami memilih aplikasi Tell, sebuah aplikasi untuk berbagi cerita dan keluh kesah para pengguna secara anonim. Tell memiliki beberapa fitur yaitu pengguna bisa menulis cerita, berdiskusi, memulai obrolan, dan filter otomatis kata-kata buruk. Fitur utama dari aplikasi ini adalah Fun Corner untuk memulai diskusi tentang topik berdasarkan beberapa kategori yang tersedia, lalu ada Stories untuk membaca dan menulis cerita yang panjang dan berkelanjutan. Key use case dari aplikasi ini adalah berikut :
