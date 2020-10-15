@@ -1,0 +1,342 @@
+0
+00:00:00,000 --> 00:00:04,00
+Nia : Assalamu'alaikum Warahmatullahi Wabarakatuh 
+
+1
+00:00:05,000 --> 00:00:08,000
+(Wa'alaikumussalam warahmatullahi wabarakatuh) 
+
+2
+00:00:09,000 --> 00:00:10,000
+Nia : Bismillaahirrahmaanirrahiim.
+
+3
+00:00:11,000 --> 00:00:23,000
+Nia : Today we are from Team D, with members, me, Siti Nuraisyarani Baashita, for Hary please introduce yourself
+
+4
+00:00:24,000 --> 00:00:26,000
+Hary : I am Hary Susilo Pratama
+
+5
+00:00:27,000 --> 00:00:29,000
+Atikah : I am Atikah Khonsa Salsabila
+
+6
+00:00:30,000 --> 00:00:48,000
+Nia : 	Okay. Here are our members. Then, along with those who are present today
+	Our friends will vote on the designs, which my two friends have made
+	For Handini, please introduce yourself
+
+7
+00:00:49,000 --> 00:00:53,000
+Handini : My name is Handini
+
+8
+00:00:54,000 --> 00:00:57,000
+Nia : For Farhan and Hanif please introduce yourself 
+
+9
+00:00:58,000 --> 00:01:00,000
+Farhan : My name is Farhan Dewanta Syahputra
+
+10
+00:01:01,000 --> 00:01:04,000
+Hanif : My name is Mochammad Hanif Ramadhan
+
+11
+00:01:05,000 --> 00:01:31,000
+Nia : Thank you for coming today. Okay, maybe I'll just get to the point
+	today there will be a presentation, for the voting that will be held today
+	the first design my friend Atikah will present, please share screen
+
+12
+00:01:46,000 --> 00:01:52,000
+Atikah : Thanks, Nia. Have invited me to present the result of my design
+
+13
+00:01:53,000 --> 00:02:03,000
+Atikah : The first error, on the sign in page, there are 2 errors.
+	 The first, on the Google button and the box to tick.
+
+14
+00:02:04,000 --> 00:02:29,000
+Atikah : On the Google button, the button is too down and too small.
+	 The button to tick confuses the user to select which is first to enter this Tell application.
+	 They must check first or select Google first
+
+15
+00:02:30,000 --> 00:02:47,000
+Atikah : I have designed it like this. The Google button is a little up.
+	 I design by defining and applying the previous view
+
+16
+00:02:48,000 --> 00:02:52,000
+Atikah : Second mistake, on the home page. There are two mistakes too.
+
+17
+00:02:53,000 --> 00:02:56,000
+Atikah : First, on the notification button and (second) on the home button
+
+18
+00:02:57,000 --> 00:03:08,000
+Atikah : Supposedly, the notification button should be below. Because all buttons are like buttons
+	 the chat and the settings button are below everything, right? So to make it match.
+
+19
+00:03:09,000 --> 00:03:23,000
+Atikah : And (second) this home button, cannot be clicked. He can't function either.
+	 Because he's the first page, the front page. Why do you have to use this home button.
+
+20
+00:03:24,000 --> 00:03:34,000
+Atikah : I made it like this. The notification icon is displayed below. (And) the home button has been removed.
+
+21
+00:03:35,000 --> 00:03:47,000
+Atikah : The third mistake, on the fun corner. There are five boxes, right? Should be on the arts box, moved to the center.
+	 So that it looks proportional
+
+22
+00:03:50,000 --> 00:04:15,000
+Atikah : (Fourth mistake) Then, on the category page in stories. There are 8 boxes, all of which have an icon.
+	 Except for riddles and childhood memories. Then I took the initiative to add the icon like this.
+
+23
+00:04:16,000 --> 00:04:32,000
+Atikah : (Fifth mistake) There was a mistake on the fun corner too. Here there is an added icon. Should have put it next
+	 left so as not to confuse the user
+
+24
+00:04:33,000 --> 00:04:44,000
+Atikah : The sixth (error) page, there is a stories icon and editor's picks. The icons are not working.
+
+25
+00:04:46,000 --> 00:05:03,000
+Atikah : The last (error) page, there are three errors, namely (button) sign out, tellizen community, and user interface.
+	 The (button) sign out is wrong because you are worried that the user will press the exit button.
+	
+26
+00:05:05,000 --> 00:05:34,000	
+Atikah: Second, usually in other application applications, the user interface is at the top and social media is below.
+	The solution (is) put the sign out button below so that he doesn't get confused.
+	Second, the tellizen community box and user interface are changed or exchanged.
+
+27
+00:05:35,000 --> 00:05:38,000
+Atikah : This is the end of my presentation. Wassalamualaikum warahmatullahi wabarakatuh
+
+28
+00:05:39,000 --> 00:05:41,000
+(Wa'alaikumussalam warahmatullahi wabarakatuh)
+
+29
+00:05:42,000 --> 00:06:00,000
+Nia : Thank you, Atikah. For the Tell application presentation, yeah.
+      Maybe we should just continue with the second design.
+      To my friend, Hary. Please share the screen and present it.
+
+30
+00:06:01,000 --> 00:06:19,000
+Hary : 	Okay, thanks to the moderators for letting me know.
+       	I'll share the screen, yeah. Plasticity? Can you see it?
+
+31
+00:06:20,000 --> 00:06:35,000
+Hary : 	I redesigned this application using figma.
+       	Okay, just get on with it, yeah. We start over.
+	
+32
+00:06:36,000 --> 00:06:55,000
+Hary : 	Earlier on the home page there was a login page.
+       	So if we want to log in, it's usually the identity page. If this is already connected, enter here, the sign up page.
+
+33
+00:06:57,000 --> 00:07:27,000
+Hary :  Earlier the sign up was originally designed in white, the chat color.
+	So it's kind of confusing, right? Also he is too small and too down. And also there is only the Google logo here.
+	Then I added "Sign up with (the Google symbol). And also it's blue. This color is like this because we haven't clicked the box.
+	So we can log into the Tell application
+
+34
+00:07:28,000 --> 00:08:05,000
+Hary : 	Here is the home page. At the beginning, the home page only has a fun corner with stories and the words "Hi, Tellizen!"
+       	So that's where the user is, you know.
+       	So what are we doing here, what is the fun corner, and what is stories.
+       	I give this information. So, the term is, in this fun corner we like to have a discussion, want more, or what to do,
+       	but with those limited tags.
+
+35
+00:08:06,000 --> 00:08:17,000
+Hary : 	In stories, it's a kind of wattpad. We want to complain about our complaints, we want to chat long, right?
+	That's his entry into stories. Those who can't be accommodated in the fun corner.
+	
+36
+00:08:18,000 --> 00:08:56,000
+Hary :	Then there is a search feature here too. Previously, the chat feature was only on
+	we must first enter in stories, then we can search. And that too is limited
+	can only search for stories only. With this, it can search all of it
+
+37
+00:08:57,000 --> 00:08:59,000
+Hary : This is how it looks, huh. 
+
+38
+00:09:00,000 --> 00:09:16,000
+Hary : 	So, let's go to the fun corner. 
+	So we want a discussion about what, want education, lounges, beauty, games, or arts. Based on these five.
+
+39
+00:09:17,000 --> 00:09:24,000
+Hary : Well, previously these arts were here (on the left).
+
+40
+00:09:25,000 --> 00:09:46,000
+Hary : 	And also if we want to enter sports, we have to enter the category. Then the button (plus button) is here (right side). It's like removing the features that are here,
+	comment feature, like feature, and this feature (three dots). I moved it here (on the left) so that it wouldn't be ordered and it was just nice to look at
+
+41
+00:09:47,000 --> 00:10:19,000
+Hary : 	If we want to make a post, we have to enter the previous application first. If we want to make a post, we click on this one. Well, it's just there. Here, there are categories here.
+	But, for this one, I can make the post feature directly here. We click. Well, there are categories. We choose, then we post
+
+42
+00:10:20,000 --> 00:10:41,000
+Hary : 	Also here, here it is. This is a feature of the typing. 
+	You can read it yourself, there are people who attach complaints. 
+	We can also directly "send message" the person who replies.
+
+43
+00:10:42,000 --> 00:11:51,000
+Hary : 	Oh yes, Tell this an anonymous application. So we can interact with anyone. Can you chat with anyone. Without having to know our identity, and without us knowing his gender.
+	We chat, here is a quote, which one he replied to our post. then also his name is anonymous, yes. so the name is disamarin, there are famous lizard, and others.
+	This is the chat room, on going means that it has been sent. Pending what we send is still stuck. The names here, the names are anonymous.
+	after that there are stories. in stories, I still keep my old design. more or less the same shape. this is still rich earlier
+
+44
+00:11:52,000 --> 00:12:22,000
+Hary : now we go to notification, earlier we made a post or story, now there is a comment. just entered this notification.
+
+45
+00:12:23,000 --> 00:13:02,000
+Hary : 	now for the profile, the profile is also the same, I still maintain the old design design. I just added the draft and bookmark here, next to it.
+	The draft, for example, we want to make a post, but it is not finished, we have already left the tell application first. if it's a bookmark, we want to save something interesting
+	so as not to drown.
+
+46
+00:13:03,000 --> 00:14:15,000
+Hary : 	The trick is to go to the fun corner, education, select chat, point three, go directly to the bookmark.
+	Well, here are bookmark posts and bookmark stories.
+	Back to profile, same as before. Here are the posts or stories that we've made, so go to the profile.
+
+47
+00:14:16,000 --> 00:14:39,000
+Hary : 	Continue to the settings. Just like what Atikah said, there were some mistakes, (namely) there was a sign out above, there was a repetition of words on the Tellizen Community.
+	Then there was a user interface feature, just enter it here. So there is a dark mode and the text size I entered here.
+	You can see that the dark mode is like this.
+
+48
+00:14:40,000 --> 00:14:56,000
+Hary : 	In the Tellizen Community, if I'm not mistaken there is the words "Tell on Twitter", "Tell on Medium", "Tell on Instagram", I think that's a repetition of the word, yes.
+	So just insert the logo and the community name that is shown the Tell.
+
+49
+00:14:57,000 --> 00:15:06,000
+Hary : 	Continue to sign out here too, below. I gave it red color so that it would contrast that this is a sign out feature.
+
+50
+00:15:07,000 --> 00:15:16,000
+Hary :	I also made "Contact us via Email", "Terms & Conditions", "Privacy Policy", and "Attribution" a little bit transparent.
+	The problem is that users don't really pay attention to these features.
+
+51
+00:15:17,000 --> 00:15:23,000
+Hary : 	If, for example, we click "Sign Out", now go back to the original page. More or less.
+
+52
+00:15:24,000 --> 00:15:44,000
+Hary : 	And also I completely overhauled the navigation buttom bar.
+	If earlier in the navigation buttom bar there is home.
+	The house doesn't seem like it works. So it can't be touched.
+	Continue is also limited. There is only home, chat, and settings.
+	
+
+53
+00:15:45,000 --> 00:16:21,000
+Hary : 	Then the notification is up here. Like being separated. So I put it down
+	And I was inspired by Facebook and Instagram. Navigate this buttom bar.
+	So if you want to go to something else, it's not lost. The screen remains the same.
+	Unless you want certain features, such as the fun corner, then you want to create a post.
+	This is the end of my presentation. Wassalamualaikum warahmatullahi wabarakatuh
+
+54
+00:16:21,000 --> 00:16:27,000
+(Wa'alaikumussalam warahmatullahi wabarakatuh)
+
+55
+00:16:27,000 --> 00:16:53,000
+Nia : 	Thanks, Hary. For his presentation of the design results in the Tell on application.
+	Maybe enough for the presentation of the two designs by my two friends.
+	Henceforth, we continue to vote.
+	Maybe I will start the vote first, who will vote first.
+
+56
+00:16:54,000 --> 00:17:02,000
+Nia : Maybe for Handini please vote, and also state the reason why you chose this design.
+
+57
+00:17:03,000 --> 00:17:43,000
+Handini : I chose Hary, yeah. The problem is that there the design is more attractive and the features are also many and good.
+	The problem is that the user is not confused. Yes, the point is interesting, lah. The design is also good. From taking the color
+	also good and he is more specific if you want to find aa. So everything is easier, lah.
+	Yes, that's how much it is from me.
+
+58
+00:17:44,000 --> 00:18:01,000
+Nia : 	Ok, fine. It means that Handini chose a design made by Hary.
+	Maybe we can continue for the next vote. Please go to Brother Farhan or Brother Hanif first, please.
+
+59
+00:18:02,000 --> 00:18:42,000	
+Farhan : I am first. For me myself, to be honest I prefer Hary. The problem is in my opinion, the Tell application is more about the `` confide '' application.
+	Where maybe there are times when someone mentally is in a sad condition, is in a happy state. Then in my opinion, the design that Hary made
+	more make people feel happy. More to make people interested, that's the term. So I prefer Hary
+
+60
+00:18:43,000 --> 00:18:53,000
+Nia : Good, thanks for the voting Can be continued for Hanif. How?
+
+61
+00:18:54,000 --> 00:19:20,000
+Hanif : I think both of them are equally good, in my opinion the improvement is to the point. 
+	It's just that maybe I'm a little more inclined towards having Hary.
+	Why? Because in my opinion, Hary has a simpler interface. So maybe it can make it easier for users.
+
+62
+00:19:21,000 --> 00:19:30,000
+Hanif : And ... But in my opinion, having Atikah has a more interesting color variation. But I prefer to have Hary.
+
+63
+00:19:31,000 --> 00:19:36,000
+Farhan : Sorry, I was told to go out went the presentation earlier
+
+64
+00:19:37,000 --> 00:19:50,000
+Nia : 	Yes, it's okay
+	Thank you to friends who have mentioned the results of their choice for our two friends' designs.
+
+65
+00:19:51,000 --> 00:20:37,000
+Nia : 	Maybe because of the voting results we have also seen the votes for the design made by Hary.
+	Alhamdulillah, with that voting has been achieved today, the design that we will use, namely
+	designs made by Hary. Thanks to my two friends who produced both designs
+	which is extraordinary and with the improvement that has been made carefully. And thanks also to
+	the voters who were present today to vote on the designs in our team.
+
+66
+00:20:38,000 --> 00:20:50,000
+Nia : Maybe for today's voting I just closed it. That is all from me. Peace be upon you, and Allah's mercy and blessings
+
+67
+00:20:52,000 --> 00:20:54,000
+(Wa'alaikumussalam warahmatullahi wabarakatuh)
